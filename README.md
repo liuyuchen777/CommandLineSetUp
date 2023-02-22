@@ -1,11 +1,9 @@
-# CommandLineSetUp
+# Mac Setup Script
 
-Shell script to set up Oh My ZSH with plugins and Vimplus in new machine.
+## Reference
 
-[Oh My ZSH](https://ohmyz.sh/)
-
-[Vimplus](https://github.com/chxuan/vimplus)
+- [Oh My ZSH](https://ohmyz.sh/)
 
 ## Usage
 
-First run `install_zsh.sh`, then run `setup.sh`.
+First run `setup.sh`.
